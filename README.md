@@ -26,7 +26,7 @@
     <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div><br/>
 
-📚 Currently, I'm pursuing the 5th semester of Information Technology at the Federal University of Rio Grande do Norte.
+📚 Currently, I'm pursuing the 8th semester of Information Technology at the Federal University of Rio Grande do Norte.
 
 🎓 I have a technical background in Computer Networking from SENAI and in Internet Computing from IFRN.
 

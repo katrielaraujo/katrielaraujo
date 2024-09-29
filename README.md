@@ -18,7 +18,9 @@
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-F8BBDB?style=for-the-badge&logo=kotlin&logoColor=white">  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-C6763D?style=for-the-badge&logo=spring&logoColor=white">  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="pandas" src="https://pyv8.org/assets/logos/pandas.svg" width="30" height="30" alt="pandas library">  </div><br/>
+  <img src="https://img.shields.io/badge/pandas-15A08A?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 
  Currently, I'm pursuing the 8th semester of Information Technology at the Federal University of Rio Grande do Norte.
 
